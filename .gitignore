@@ -1,0 +1,19 @@
+# logs
+log/
+logs/
+
+# Byte-compiled
+*.class
+
+# Distribution / packaging
+*.jar
+*.war
+*.ear
+
+# IDE extensions
+.idea/
+*.iml
+
+# Builder
+*/target
+target/
